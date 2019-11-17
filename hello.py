@@ -7,7 +7,7 @@ def hello(what):
 
 
 def say_what():
-    return 'worldddddddddddd'
+    return 'world'
 
 
 def main():
